@@ -15,7 +15,7 @@ The development constituted two separate undergraduate honors theses, undertaken
 #
 
 <h3> Installation </h3>
-
+!! Pip Package Coming Soon !!
 `pip3 install reddit-to-dialogue`
 
 #
@@ -24,11 +24,11 @@ The development constituted two separate undergraduate honors theses, undertaken
 
 <h4> Input </h4>
 
-Data should be in a JSON format, organized as defined by [PRAW](https://praw.readthedocs.io/en/stable/)
+Data should be in a JSON format, organized as defined by [PRAW](https://praw.readthedocs.io/en/stable/). Example in reddit folder.
 
 <h4> Output </h4>
 
-Dialogues will be returned in the format:
+Dialogues will be returned in the format (example in exampleoutput):
 
 ```
 [{
